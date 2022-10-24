@@ -1,0 +1,1 @@
+create a faq page using html, css and javascript. made use of the toggle feature in javascript
